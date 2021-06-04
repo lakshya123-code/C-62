@@ -1,0 +1,47 @@
+body{
+    background-color:#00ff44;
+      margin: 0;
+    padding top: 800px;
+    text-align: center;
+    
+        
+}
+#img{
+    border-radius: 50%;
+        margin-bottom: 50px;
+    width: 300px;
+         height: 300px;
+}
+    .menu{
+    list-style: none;
+    font-family: sans-serif;
+    position: absolute;
+    top: 10px;
+    text-align: center;
+    z-index: 10px;
+    cursor: pointer;
+}
+{
+    transition:scale;
+}
+#writings a
+{
+    text-shadow: none !important;
+    text-decoration: underline !important;
+    color:aquamarine !important;
+}
+#contact{
+    background: firebrick;
+}
+#contact iframe{
+    width: 100%;
+}
+
+.contact_1 h3{
+    display: inline;
+}
+
+.contact_1a{
+    color: white;
+    text-shadow: none;
+}
